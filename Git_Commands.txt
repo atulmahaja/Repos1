@@ -3,14 +3,27 @@ Step 2. download and install git
 
 Step 3 : add your project to git
 
-Step 4 :
+Step 4 : GIT Commands :--
 
-GIT Commands :
+## to avoid asking for username and pass after you push the repository to Github ##
+- git config --global user.email "atulmahaja@gmail.com"
+- git config --global user.name "atulmahaja"
+
 
 - Git init  ----> To initialise the repository in a folder
 - Git status ----> to check the status of the Git, files
 - Git add 'file name'
 - Git commit -m "...."
+- Git remote add origin https://github.com/atulmahaja/Repos1.git
+- Git push -u origin master
+- Git --help
 
-Created a html file in the folder
+-- Created a html file in the folder
 dir > index.html
+
+### we can use wild card characters which can add everything which is not added ###
+
+git add.
+
+Step 5 :adding to remote repository
+
