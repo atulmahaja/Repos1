@@ -27,3 +27,22 @@ git add.
 
 Step 5 :adding to remote repository
 
+
+###--- BRANCHING AND MERGING ---##
+
+Step 1 : Create Branch
+- git branch "branch name"
+
+Step 2: Check out Branch
+
+- git checkout "Branch name"
+
+Step 3: Merge New Branch in master Branch
+
+- git merge "Branch name"
+
+Step 4: Delete Branch 
+
+- git branch -d "branch name"   ---- delete from local
+	
+- git push origin --delete "branch name" --- delete from remote
