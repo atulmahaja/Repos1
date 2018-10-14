@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90D7-3419
+
+ Directory of C:\Users\105051884\Desktop\my folder
+
+10/14/2018  08:17 PM    <DIR>          .
+10/14/2018  08:17 PM    <DIR>          ..
+10/14/2018  08:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  112,747,487,232 bytes free
