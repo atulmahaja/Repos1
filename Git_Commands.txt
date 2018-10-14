@@ -1,0 +1,16 @@
+
+Step 2. download and install git
+
+Step 3 : add your project to git
+
+Step 4 :
+
+GIT Commands :
+
+- Git init  ----> To initialise the repository in a folder
+- Git status ----> to check the status of the Git, files
+- Git add 'file name'
+- Git commit -m "...."
+
+Created a html file in the folder
+dir > index.html
